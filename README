@@ -1,0 +1,23 @@
+## (JS) Luxury Farmer of Grepolis v. 0.2.2 ##
+
+### LFoG v. 0.2.2, 2014-11-22 ###
+
+* Improved the claim()-Function
+
+> If there isn't in the cave enough space, the resources will be send to the village
+
+### LFoG v. 0.2.1, 2014-11-20 ###
+
+* Fixed number format
+* Added random delay while looping through towns
+
+### LFoG v. 0.2, 2014-11-17 ###
+
+* Added function pauses the bot
+* Added function stores iron into the cave
+* Added function spends resources to level up your farming village
+
+### LFoG v. 0.1, 2014-11-09 ###
+
+* Added option claims resources from all your farming villages
+* Added premium menu (in case you haven't got it) 
